@@ -1,6 +1,6 @@
 # Heartware – Joc serios platformer 2D
 
-**Autor:** Antonia Ema  
+**Autor:** Antonia Ema Tufănescu 
 **Proiect de Licență – AIA, UPT**  
 **Repository Git:** [https://github.com/AntoniaEma/Heartware](https://github.com/AntoniaEma/Heartware)
 
