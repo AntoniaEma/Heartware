@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Green
+  - Yellow
+  - Blue
+  - Brown
+  - ClimateChange
+  - Deforestation
+  - Hunting
+  - Pollution
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Background
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 36464243
+    locked: 0
+  - name: Foreground
+    uniqueID: 3533131969
+    locked: 0
+  - name: Player
+    uniqueID: 944158817
+    locked: 0
+  - name: Ground
+    uniqueID: 2724349343
+    locked: 0
