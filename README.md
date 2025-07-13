@@ -54,11 +54,3 @@ Acest repository conține:
 
 ---
 
-## Alte mențiuni
-
-- Codul sursă **nu conține fișiere binare compilate**, conform cerințelor.
-- Fișierul `.gitignore` exclude `Library/`, `Temp/`, `Build/` și alte directoare generate automat de Unity.
-- Pentru orice modificare sau rulare, recomand folosirea exact aceleiași versiuni Unity: **2020.2.1f1**.
-
----
-
